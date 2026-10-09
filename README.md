@@ -30,7 +30,7 @@ Os dados ficam apenas em memória: ao fechar o app, o que foi adicionado se perd
 
 Requisitos: Android Studio e um emulador ou celular com Android 7.0 (API 24) ou superior. O mapa precisa de internet.
 
-1. Clone o repositório: `git clone <URL-DO-REPOSITORIO>`.
+1. Clone o repositório: `git clone https://github.com/Lorenzovanelli/UpCar2.git`.
 2. Abra a pasta no Android Studio e aguarde a sincronização do Gradle.
 3. Selecione um emulador ou celular e execute o módulo `app`.
 
