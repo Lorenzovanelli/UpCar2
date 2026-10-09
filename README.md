@@ -33,3 +33,7 @@ Requisitos: Android Studio e um emulador ou celular com Android 7.0 (API 24) ou 
 1. Clone o repositório: `git clone <URL-DO-REPOSITORIO>`.
 2. Abra a pasta no Android Studio e aguarde a sincronização do Gradle.
 3. Selecione um emulador ou celular e execute o módulo `app`.
+
+## Documentação
+
+A documentação do projeto, com prints das telas, está em docs/Documentacao_projeto_upcar.pdf
